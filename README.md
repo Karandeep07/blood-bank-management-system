@@ -4,7 +4,7 @@
 #### Database Configuration
 Open phpmyadmin “http://localhost/phpmyadmin”
 Create Database bbdms
-Import database bbdms.sql (available inside zip package)
+Import database bbdms.sql
 Open Your browser put inside browser “http://localhost/bbdms”
 
 #### For Admin Panel
