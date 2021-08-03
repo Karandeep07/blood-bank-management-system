@@ -5,10 +5,10 @@
 Open phpmyadmin “http://localhost/phpmyadmin”
 Create Database bbdms
 Import database bbdms.sql
-Open Your browser put inside browser “http://localhost/bbdms”
+Open Your browser add this url “http://localhost/bbdms”
 
 #### For Admin Panel
-Open Your browser put inside browser “http://localhost/bbdms/admin”
+Open Your browser and add this url “http://localhost/bbdms/admin”
 
 #### Login Details for admin :
 Username: admin
